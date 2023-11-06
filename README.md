@@ -1,7 +1,7 @@
 # Chatbot3d
 Tech Stack used:
 - **Front-end**
-  - Javascript
+  - HTML, Javascript
   - React.js
   - Three.js
   - Vite
