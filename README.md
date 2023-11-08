@@ -18,7 +18,7 @@ Tech Stack used:
 ## Setting up of Directory
 1. Create a folder named `chatbot`.
 2. Navigate into the newly created folder and follow the steps in the given links for backend and frontend by staying in your current directory.
-3. Unzip the Rhubarb Lipsync Library in `./chatbot/` folder.
+3. Unzip the Rhubarb Lipsync Library in `./chatbot/` folder. ([Download Rhubarb Lipsync](https://github.com/DanielSWolf/rhubarb-lip-sync/releases))
 4. If no errors occur while running the individual services, then you are good to go.
 5. For your convenience, the Directory view screenshot is attached.
 ***Now, you can test the web app***
